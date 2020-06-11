@@ -1,0 +1,100 @@
+.conteiner {
+    max-width: 1900px;
+    margin: 0;
+    font-size: 18px;
+
+}
+.clearfix{
+    clear: both;
+}
+body{
+    background-color: #990909 ;
+}
+.imglogo__link{
+  text-align: center;
+  margin: 15px 0 4px 0;
+}
+
+footer{
+    background-color: #E95B11;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    clear: both;
+    margin-top: 40px;
+
+}
+.nav__menu{
+    background-color: #000000;
+    text-align: center;  
+    margin: 4px 0 0 3px;
+    
+}
+
+.menu__buttons{
+    text-decoration: none;
+    color: white ;
+}
+figure{
+    display: inline-block;
+    margin: 20px 40px 0px 50px;
+}
+
+.main__text{
+    color: white;
+    float: left; 
+    width: 60%;
+    margin: 10px 0 10px;
+    
+    
+}
+.aside__items{
+    float: left;
+    width: 20%;
+    margin-bottom: 20px;
+    background-color: #7D0909;
+   
+    
+    
+    
+}
+.title__menu{
+  float: left; 
+  width: 20%;
+  background-color: #E3DDDD;
+  margin-bottom: 20px;
+  text-align: left;
+  
+  
+}
+.titl{
+   margin: 0;
+    text-align: center;
+    background-color: #BDBDBD;
+}
+ li {
+    list-style: none;
+    margin: 20px 0 0;
+    
+}
+ul{
+    margin: 20px 0 10px 0 ;
+    padding: 0;
+}
+
+.title__links{
+    text-decoration:none;
+    color: #000000;
+       
+}
+.aside__links {
+color: #E8590E;
+
+}
+.title__links {
+    margin: 20px 0 10px 0;
+}
+hr {
+    text-align: center;
+    width: 40%;
+}
