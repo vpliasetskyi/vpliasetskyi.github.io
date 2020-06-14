@@ -75,6 +75,12 @@ word-break: break-all;
     cursor: pointer;
 
 }
+.btn:active{
+    outline: none;
+}
+.btn:focus{
+    outline: none;
+}
 img.hover{
     display: none;
 }
